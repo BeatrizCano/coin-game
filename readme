@@ -1,0 +1,49 @@
+T6 JUEGO DE LA MONEDA JS
+
+OBJETIVO DE TALLER
+
+Desarrollar conocimientos suficientes para el uso de javascript en páginas webs dinámicas
+
+● Aplicar conceptos fundamentales de javascript,
+● Manipular el DOM accediendo a elementos HTML para modificar sus atributos.
+● Gestionar eventos asociados a elementos HTML para obtener datos de forma dinámica.
+
+Tu misión si decides aceptarla es desarrollar el juego de azar “Cara o Cruz” utilizando HTML, CSS y Javascript.
+El objetivo del juego es sumar un punto a cada cara de la moneda cada vez que caiga en esa cara. ¡Comencemos!
+DESCRIPCIÓN
+
+FUNCIONALIDADES
+● El juego DEBE tener 2 botones:
+Girar la moneda
+Reiniciar el juego
+
+● El juego debe tener 2 contadores que almacenen los puntajes según el lado de la moneda que haya caído
+
+Contador cara: n veces cara
+Contador cruz: n veces cruz
+
+INTERFAZ
+● El juego DEBE tener una interfaz atractiva,
+● El usuario TIENE que ver una moneda,
+● La moneda DEBE estar animada para que haga el efecto de que gira cada que se lanza,
+● La cara que se muestra DEBE coincidir con el puntaje que se añade al contador que corresponda.
+T6 JUEGO DE LA MONEDA JS
+
+EJEMPLO
+● JUEGO DOM
+
+● https://www.freecodecamp.org/espanol/news/que-es-el-dom-el-significado-del-modelo-de-objeto-de-documento-en-javascript/
+
+● https://developer.mozilla.org/es/docs/Glossary/DOM
+● https://www.w3schools.com/js/js_events.asp
+● https://www.w3schools.com/jsref/dom_obj_event.aspcript
+RANDOM
+● https://www.w3schools.com/js/js_random.asp
+● https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+RECURSOS
+
+REPO
+
+● En github
+● Intentaremos compartir las diferentes soluciones entre todo@s
